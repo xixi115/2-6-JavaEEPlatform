@@ -1,0 +1,34 @@
+{
+  "Products" : {
+    "transaction" : "Products",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 17559.383999999973,
+    "medianResTime" : 16397.0,
+    "minResTime" : 2140.0,
+    "maxResTime" : 35771.0,
+    "pct1ResTime" : 33757.9,
+    "pct2ResTime" : 34431.55,
+    "pct3ResTime" : 34927.83,
+    "throughput" : 36.20477420289155,
+    "receivedKBytesPerSec" : 67.09982127664068,
+    "sentKBytesPerSec" : 8.745927905734836
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 17559.383999999973,
+    "medianResTime" : 16397.0,
+    "minResTime" : 2140.0,
+    "maxResTime" : 35771.0,
+    "pct1ResTime" : 33757.9,
+    "pct2ResTime" : 34431.55,
+    "pct3ResTime" : 34927.83,
+    "throughput" : 36.20477420289155,
+    "receivedKBytesPerSec" : 67.09982127664068,
+    "sentKBytesPerSec" : 8.745927905734836
+  }
+}
